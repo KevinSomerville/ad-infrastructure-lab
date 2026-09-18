@@ -15,4 +15,6 @@ This document outlines the configuration applied to this Domain.
 ## Group Policy Objects
 
 ## Test Accounts Created
-- 
+- VBox
+- VBox-2
+- VBox-3
