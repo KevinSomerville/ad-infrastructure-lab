@@ -15,7 +15,7 @@ I built a Windows Server-based Active Directory Lab with Windows Server 2025 and
 
   * Set all virtual machine adapter 1 to the Internal network for VM-to-VM connectivity
 
-  *  Complete installation and shut down the Windows 11 Enterprise VM
+  *  Complete installations and shut down the Windows 11 Enterprise VM
 
   *  When creating the 2 clones, within the options for the MAC Address Policy, select "Generate new MAC addresses for all network adapters."
 
