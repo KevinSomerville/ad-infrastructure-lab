@@ -13,8 +13,13 @@ This document outlines the configuration applied to this Domain.
 - IT
 
 ## Group Policy Objects
+- Wallpaper-policy
+- Control Policy
+- Default Domain Policy(Account Lockout)
 
 ## Test Accounts Created
-- VBox
-- VBox-2
-- VBox-3
+- VBox/IT
+- VBox2/IT
+- VBox3/IT
+- WBox/Sales
+- WBox2/Sales
